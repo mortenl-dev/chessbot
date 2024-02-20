@@ -1,0 +1,15 @@
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.csproj.AssemblyReference.cache
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.AssemblyInfoInputs.cache
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.AssemblyInfo.cs
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.csproj.CoreCompileInputs.cache
+C:\Users\morte\Desktop\Projects\chessbot\bin\Debug\net7.0\chessbot.exe
+C:\Users\morte\Desktop\Projects\chessbot\bin\Debug\net7.0\chessbot.deps.json
+C:\Users\morte\Desktop\Projects\chessbot\bin\Debug\net7.0\chessbot.runtimeconfig.json
+C:\Users\morte\Desktop\Projects\chessbot\bin\Debug\net7.0\chessbot.dll
+C:\Users\morte\Desktop\Projects\chessbot\bin\Debug\net7.0\chessbot.pdb
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.dll
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\refint\chessbot.dll
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.pdb
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\chessbot.genruntimeconfig.cache
+C:\Users\morte\Desktop\Projects\chessbot\obj\Debug\net7.0\ref\chessbot.dll
